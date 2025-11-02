@@ -104,7 +104,7 @@ JavaScript toggle for small screens.
 Animated icon change (☰ → ✕).
 
 📸 Preview
-![App Screenshot](https://res.cloudinary.com/your_cloud_name/image/upload/v1234567890/feedback-form.png)
+![App Screenshot](https://res.cloudinary.com/dayxvtzfm/video/upload/v1762088238/Screen_Recording_2025-11-02_182519_t9tjvn.mp4)
 
 👨‍💻 Author
 Saksham
